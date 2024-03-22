@@ -1,0 +1,13 @@
+{
+  "name": "sequiet",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "license": "(Apache-2.0 AND BSD-3-Clause)",
+  "author": "MillerBeatty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElbertSwaniawski/sequiet.git"
+  },
+  "version": "1.0.0"
+}
